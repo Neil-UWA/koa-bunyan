@@ -1,0 +1,23 @@
+{
+  "name": "koa-bunyan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neil-UWA/koa-bunyan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neil-UWA/koa-bunyan/issues"
+  },
+  "homepage": "https://github.com/Neil-UWA/koa-bunyan#readme",
+  "dependencies": {
+    "bunyan": "^1.8.3",
+    "node-uuid": "^1.4.7"
+  }
+}
